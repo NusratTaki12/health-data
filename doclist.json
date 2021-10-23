@@ -1,50 +1,50 @@
 [
     {
-        "key": "i01",
-        "id": "i1",
-        "name": "Dr. Angela Yu",
-        "expertIn": "iOS App Development",
-        "experience": "7 years",
+        "key": "doc01",
+        "id": "d1",
+        "name": "Dr. Rashid Ahmed",
+        "expertIn": "Senior Consultant",
+        "experience": "MBBS, FCPS (Medicine), MD (Cardiology), MRCP (London)",
+        "img": "https://chattogram.evercarebd.com/wp-content/uploads/2021/04/Dr.-Surman-Ali.jpg"
+    },
+    {
+        "key": "doc02",
+        "id": "d2",
+        "name": "Prof. Dr. Tamzeed Ahmed",
+        "expertIn": "Senior Consultant – Clinical & Interventional Cardiology",
+        "experience": "MBBS, MD (Cardiology), DEM (Diabetes and Endocrinology), MACP (USA).",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/Tamzeed-Ahmed-90x90.jpg"
+    },
+    {
+        "key": "doc03",
+        "id": "d3",
+        "name": "Prof. Dr. A. Q. M. Reza",
+        "expertIn": "Senior Consultant",
+        "experience": "MBBS, MCPS (Medicine), MD (Neurology)",
+        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/A.-Q.-M.-Reza-90x90.jpg"
+    },
+    {
+        "key": "doc04",
+        "id": "d4",
+        "name": "Dr. Edward George",
+        "expertIn": "Senior Consultant",
+        "experience": "MBBS, FCPS (Surgery)",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
     },
     {
-        "key": "i02",
-        "id": "i2",
-        "name": "Stephen Grider",
-        "expertIn": "Native React",
-        "experience": "5 years",
+        "key": "doc05",
+        "id": "d5",
+        "name": "Dr. Charles Burton",
+        "expertIn": "Consultant",
+        "experience": "MBBS, FCPS (Pediatric)",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
     },
     {
-        "key": "i03",
-        "id": "i3",
-        "name": "Jonas Schmedtmann",
-        "expertIn": "CSS",
-        "experience": "11 years",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
-    },
-    {
-        "key": "i04",
-        "id": "i4",
-        "name": "Anthony Alicia",
-        "expertIn": "nodeJS",
-        "experience": "9 years",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
-    },
-    {
-        "key": "i05",
-        "id": "i5",
-        "name": "Anthony Alicia",
-        "expertIn": "nodeJS",
-        "experience": "9 years",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
-    },
-    {
-        "key": "i06",
-        "id": "i6",
-        "name": "Anthony Alicia",
-        "expertIn": "nodeJS",
-        "experience": "9 years",
+        "key": "doc06",
+        "id": "d6",
+        "name": "Dr. Leena Vhattyacharia",
+        "expertIn": "Consultant- Obstetrics and Gynaecology",
+        "experience": "MBBS, DGO, FCPS (Gynae & Obs), MCPS (Gynae & Obs)",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
     }
 ]
