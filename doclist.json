@@ -5,39 +5,39 @@
         "name": "Dr. Rashid Ahmed",
         "expertIn": "Senior Consultant",
         "experience": "MBBS, FCPS (Medicine), MD (Cardiology), MRCP (London)",
-        "img": "https://chattogram.evercarebd.com/wp-content/uploads/2021/04/Dr.-Surman-Ali.jpg"
+        "img": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRvY3RvcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
     },
     {
         "key": "doc02",
         "id": "d2",
-        "name": "Prof. Dr. Tamzeed Ahmed",
+        "name": "Prof. Dr. Tamzeed Rehman",
         "expertIn": "Senior Consultant – Clinical & Interventional Cardiology",
         "experience": "MBBS, MD (Cardiology), DEM (Diabetes and Endocrinology), MACP (USA).",
-        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/Tamzeed-Ahmed-90x90.jpg"
+        "img": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZG9jdG9yfGVufDB8MXwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60"
     },
     {
         "key": "doc03",
         "id": "d3",
-        "name": "Prof. Dr. A. Q. M. Reza",
+        "name": "Prof. Dr. Reza",
         "expertIn": "Senior Consultant",
         "experience": "MBBS, MCPS (Medicine), MD (Neurology)",
-        "img": "https://www.evercarebd.com/wp-content/uploads/2021/02/A.-Q.-M.-Reza-90x90.jpg"
+        "img": "https://media.istockphoto.com/photos/indian-doctor-picture-id179011088?s=612x612"
     },
     {
         "key": "doc04",
         "id": "d4",
-        "name": "Dr. Edward George",
+        "name": "Dr. Faizul Karim",
         "expertIn": "Senior Consultant",
         "experience": "MBBS, FCPS (Surgery)",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
+        "img": "https://media.istockphoto.com/photos/senior-indian-doctor-looking-at-camera-picture-id1166424583?k=20&m=1166424583&s=612x612&w=0&h=hLWmMrsjlfRi0PV-Jx_6qFSJt4eMw0GoApoGJBf7adE="
     },
     {
         "key": "doc05",
         "id": "d5",
-        "name": "Dr. Charles Burton",
+        "name": "Prof. Dr. Imran Ali",
         "expertIn": "Consultant",
         "experience": "MBBS, FCPS (Pediatric)",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
+        "img": "https://media.istockphoto.com/photos/smiling-indian-general-practitioner-picture-id1129521442?k=20&m=1129521442&s=612x612&w=0&h=XcHKpSo_bFTKJ1FphqguYr5ZK1EB_M2mGcQTBsn3PJQ="
     },
     {
         "key": "doc06",
@@ -45,6 +45,6 @@
         "name": "Dr. Leena Vhattyacharia",
         "expertIn": "Consultant- Obstetrics and Gynaecology",
         "experience": "MBBS, DGO, FCPS (Gynae & Obs), MCPS (Gynae & Obs)",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQk0Ss2ZnxGgsFOmUHu_af0Hl-DE13mSfjP69QD1YFpORS3DttPpvkPilAZf_5siozJQ8&usqp=CAU"
+        "img": "https://images.unsplash.com/photo-1614608682468-f0e22796f633?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGRvY3RvcnxlbnwwfDF8MHx8&auto=format&fit=crop&w=400&q=60"
     }
 ]
