@@ -1,7 +1,7 @@
 [
     {
         "key": "t001",
-        "id": "1",
+        "id": 1,
         "name": "Turkey",
         "price": "1200",
         "duration": "5 days",
@@ -11,7 +11,7 @@
     },
     {
         "key": "t002",
-        "id": "2",
+        "id": 2,
         "name": "London",
         "price": "1200",
         "duration": "5 days",
@@ -21,7 +21,7 @@
     },
     {
         "key": "t003",
-        "id": "3",
+        "id": 3,
         "name": "Tokyo",
         "price": "1200",
         "duration": "5 days",
@@ -31,7 +31,7 @@
     },
     {
         "key": "t004",
-        "id": "4",
+        "id": 4,
         "name": "Switzerland",
         "price": "1200",
         "duration": "5 days",
@@ -41,7 +41,7 @@
     },
     {
         "key": "t005",
-        "id": "5",
+        "id": 5,
         "name": "Venice",
         "price": "1200",
         "duration": "5 days",
@@ -51,7 +51,7 @@
     },
     {
         "key": "t006",
-        "id": "6",
+        "id": 6,
         "name": "Santorini",
         "price": "1200",
         "duration": "5 days",
@@ -61,7 +61,7 @@
     },
     {
         "key": "t007",
-        "id": "7",
+        "id": 7,
         "name": "Paris",
         "price": "1200",
         "duration": "5 days",
@@ -71,7 +71,7 @@
     },
     {
         "key": "t008",
-        "id": "8",
+        "id": 7,
         "name": "Bali",
         "price": "1200",
         "duration": "5 days",
@@ -81,7 +81,7 @@
     },
     {
         "key": "t009",
-        "id": "9",
+        "id": 9,
         "name": "Maldives",
         "price": "1200",
         "duration": "5 days",
