@@ -2,91 +2,85 @@
     {
         "key": "t001",
         "id": 1,
-        "name": "Turkey",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1434&q=80"
+        "name": "Rolex",
+        "price": "2200",
+        "img": "https://i.ibb.co/xCcdK02/photo-1622434641406-a158123450f9.jpg"
     },
     {
         "key": "t002",
         "id": 2,
-        "name": "London",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     },
     {
         "key": "t003",
         "id": 3,
-        "name": "Tokyo",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://images.unsplash.com/photo-1580638858617-ed8f4c3fa6d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1555&q=80"
+        "name": "Omega",
+        "price": "2200",
+        "img": "https: //i.ibb.co/pWH5Zps/photo-1524805444758-089113d48a6d.jpg"
     },
     {
         "key": "t004",
         "id": 4,
-        "name": "Switzerland",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://images.unsplash.com/photo-1550503736-c1a2c9033c03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     },
     {
         "key": "t005",
         "id": 5,
-        "name": "Venice",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://media.istockphoto.com/photos/grand-canal-and-basilica-santa-maria-della-salute-in-venice-italy-picture-id1148751343?b=1&k=20&m=1148751343&s=170667a&w=0&h=mPNk4d5ea0UAl3oulXnJzOCJ3JQKCmtPF94ysP2gLFA="
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     },
     {
         "key": "t006",
         "id": 6,
-        "name": "Santorini",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://media.istockphoto.com/photos/santorini-sunset-at-dawn-village-of-oia-greece-picture-id510967662?k=20&m=510967662&s=612x612&w=0&h=kTdF8zseq1w4G9LphLb4LCTkpSEKc6HoFqrP2OFzd08="
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     },
     {
         "key": "t007",
         "id": 7,
-        "name": "Paris",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://media.istockphoto.com/photos/romantic-paris-with-tour-eiffel-picture-id155381519?k=20&m=155381519&s=612x612&w=0&h=a4uqrRqeqNw_4imX-KCcT2M68YyJt2KwAa36_ZdSFMc="
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     },
     {
         "key": "t008",
-        "id": 7,
-        "name": "Bali",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://images.unsplash.com/photo-1577717903315-1691ae25ab3f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+        "id": 8,
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     },
     {
         "key": "t009",
         "id": 9,
-        "name": "Maldives",
-        "price": "1200",
-        "duration": "5 days",
-        "details": "Let’s start your journey with us, your dream will come true.",
-        "includes": "All Saints' Day holidays, treat yourself to a relaxing break of 2 nights at the castle. ",
-        "img": "https://media.istockphoto.com/photos/maldives-villa-piles-on-water-picture-id153006184?k=20&m=153006184&s=612x612&w=0&h=1fMcmICQnZ6T25Q_AqDFPns9292Ogz-Ko6jidHxith0="
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
+    },
+    {
+        "key": "t0010",
+        "id": 10,
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
+    },
+    {
+        "key": "t0011",
+        "id": 11,
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
+    },
+    {
+        "key": "t0012",
+        "id": 12,
+        "name": "Omega",
+        "price": "2200",
+        "img": "https://i.ibb.co/4SqQJwp/photo-1523170335258-f5ed11844a49.jpg"
     }
 ]
